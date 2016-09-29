@@ -1,0 +1,1 @@
+include ':app', ':scrrendemo02', ':screenadapterdemo03', ':platformdemo04'
